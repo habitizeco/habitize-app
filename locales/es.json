@@ -1,0 +1,15 @@
+{
+    "wallet": {
+      "grid": {
+        "tickets": {
+          "title": "Tus entradas"
+        },
+        "how": {
+          "title": "¿Cómo ganar?"
+        },
+        "why": {
+          "title": "¿Por qué ganar?"
+        }
+      }
+    }
+  }
